@@ -1,6 +1,6 @@
 aaaaaaaaaaaaaaaa
 bbb    branch add bbb
 ccc
-ddd
+ddd    branch add ddd
 eee
 ddd    branch add ddd
